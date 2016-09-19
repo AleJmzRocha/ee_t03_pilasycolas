@@ -2,6 +2,9 @@ package ee_t03_pilasycolas;
 import javax.swing.*;
 
 public class Pila<T> {
+	/**
+	 * La clase Pila<T> implementa una estructura génerica usando listas
+	 */
 	public Lista<T> pila = new Lista<T>();
     
     public void push(T dato){
