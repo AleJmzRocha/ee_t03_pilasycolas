@@ -78,5 +78,6 @@ public class Test {
 		t.leer();
 		System.out.println();
 		t.leer2();
+		//Se hace por métodos para ver la funcionalidad de las clase implementadas
 	}
 }
